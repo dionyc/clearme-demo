@@ -1,4 +1,4 @@
-# [Clear Membership Estimate](#)
+# [Clear Membership Estimate](https://clearme-demo.herokuapp.com/)
 A simple tool to help customers know how much their membership will cost.
 
 <div>
